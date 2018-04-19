@@ -1,3 +1,3 @@
 # cs229
 CS229 Notes
-* **Lecture 1** - Basic Concepts
+* **Lecture 1** - Basic Concepts [ps0]
